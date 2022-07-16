@@ -1,0 +1,15 @@
+/target/
+
+### Frontend folder ###
+node_modules/
+package-lock.json
+yarn.lock
+target
+.classpath
+.mvn
+.project
+.settings
+HELP.md
+mvnw
+mvnw.cmd
+.docz
